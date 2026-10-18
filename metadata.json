@@ -1,0 +1,6 @@
+{
+  "name": "Alchemy Science Academy",
+  "description": "Premier coaching for JEE Main & Advanced, NEET-UG, and MHT-CET led by Director Prof. Sharad Raktate. Admissions open with instant SMS inquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
